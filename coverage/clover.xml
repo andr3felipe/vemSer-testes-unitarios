@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1707324226788" clover="3.2.0">
+  <project timestamp="1707324226788" name="All files">
+    <metrics statements="85" coveredstatements="85" conditionals="41" coveredconditionals="41" methods="11" coveredmethods="11" elements="137" coveredelements="137" complexity="0" loc="85" ncloc="85" packages="8" files="8" classes="8"/>
+    <package name="01">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\01\index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="02">
+      <metrics statements="8" coveredstatements="8" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\02\index.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="7" type="cond" truecount="3" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="03">
+      <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\03\index.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="04">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\04\index.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="05">
+      <metrics statements="20" coveredstatements="20" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\05\index.ts">
+        <metrics statements="20" coveredstatements="20" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="33" type="stmt"/>
+        <line num="30" count="33" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="06">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\06\index.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="07">
+      <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\07\index.ts">
+        <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="10" count="7" type="cond" truecount="3" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="08">
+      <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <file name="index.ts" path="C:\Users\Programmer\vemSer-testes-unitarios\Task-01\08\index.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="19" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

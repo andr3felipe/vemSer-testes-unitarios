@@ -11,6 +11,10 @@ describe("yesNo function", () => {
     expect(yesNo("Sim")).toMatch("Parabéns");
   });
 
+  it(`should return "Encerrando sua sessão…" if the argument is "Não"`, () => {
+    expect(yesNo("Não")).toMatch("Encerrando sua sessão…");
+  });
+
   it(`should return "Você tem noções dos seus atos?" if the argument is different from "Sim" or "Não"`, () => {
     expect(yesNo("Wrong argument")).toMatch("Você tem noções dos seus atos?");
   });
