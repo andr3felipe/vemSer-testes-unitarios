@@ -84,7 +84,7 @@
 
 - Dado: dado que o usuário envia os parâmetros;
 - Quando: for validado que se trata de uma STRING;
-- Então: deve retornar a mensagem "Olá <client> eu me chamo <attendant>, em que posso ajudar?";
+- Então: deve retornar a mensagem "Olá (client) eu me chamo (attendant), em que posso ajudar?";
 
 ## Exercício 5 (howCanIHelpYou):
 
